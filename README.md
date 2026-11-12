@@ -82,7 +82,8 @@ Raw and processed datasets are excluded from this repository because they contai
 
 ## Tableau Dashboard
 
-**Interactive Dashboard:** [View on Tableau Public](ADD_YOUR_TABLEAU_PUBLIC_URL_HERE)
+**Interactive Dashboard:** [View on Tableau Public]
+(https://public.tableau.com/app/profile/vedansh.reddy.m/viz/SupplyChainAnalyticsDashboard_17945080420720/SupplyChainAnalyticsDashboard?publish=yes)
 
 ## Dashboard Preview
 
