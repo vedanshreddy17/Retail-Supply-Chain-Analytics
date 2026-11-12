@@ -1,0 +1,18 @@
+
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Tableau extracts and temporary files
+*.hyper
+*.tde
+*.tmp
+
+# Local SQL session files
+*.session.sql
+
+# macOS system files
+.DS_Store
+
+# Editor configuration
+.vscode/
